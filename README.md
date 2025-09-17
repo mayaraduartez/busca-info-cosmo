@@ -36,7 +36,6 @@
   * `puppeteer-core` – controla um Chrome já iniciado via *remote debugging*
   * `csv-parser` – leitura do CSV de entrada
   * `fast-csv` – escrita do CSV de saída
-  * (`exceljs` – *opcional* para exportar `.xlsx`)
 
 ### Instalação
 
