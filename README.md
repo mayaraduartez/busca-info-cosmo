@@ -164,3 +164,9 @@ EAN
 ## Autoria & manutenção
 
 * **Autor:** Mayara Duarte
+
+---
+
+## Licença
+
+Este projeto está licenciado sob os termos da licença [MIT](./LICENSE).
